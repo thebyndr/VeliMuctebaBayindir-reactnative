@@ -28,7 +28,7 @@
 | ➥ ~./CreateProduct           | Create Product and Post                                                                                      |
 | ➥~./Navigation         | Makes routing to middlewares and (/or) controllers.                                        |
            
-### 🎀 ScreenShots of Pages
+###  ScreenShots of Pages
 # HomeScreen
 
 <img src="https://user-images.githubusercontent.com/57766774/173921799-a4ab0134-43d7-460f-853c-be67097f0e63.png" width="128"/>
