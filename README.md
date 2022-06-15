@@ -5,7 +5,8 @@
 
 
 
-![](https://img.shields.io/badge/React%20Native-black?style=for-the-badge&logo=react&logoColor=blue&logoHeigt=40)
+
+![](https://img.shields.io/badge/React%20Native-black?logo=react&logoColor=blue)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 
 
