@@ -25,7 +25,7 @@
 | ------------------------ | ------------------------------------------------------------------------------------------ |                    
 | ➥ ~./Home              |Home Screen ,Products and Categories                                                                    |
 | ➥ ~./Detail           | Detail Screen, Details of Chosen Product                                                                                      |
-| ➥ ~./CreateProduct           | Create Product and Post                                                                                      |
+| ➥ ~./CreateScreen           | Create Product and Post                                                                                      |
 | ➥~./Navigation         | Makes routing to middlewares and (/or) controllers.                                        |
            
 ###  ScreenShots of Pages
