@@ -1,5 +1,5 @@
 # UPayments React Native Case Study
- UPayments React Native Case Study
+
 
 
 
